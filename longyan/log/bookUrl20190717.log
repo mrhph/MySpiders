@@ -1,0 +1,56 @@
+2019-07-17 15:24:53,534 thread:11376 INFO crawl book url, thread *Crawl book url thread 1*  ==>RUN
+2019-07-17 15:24:53,535 thread:116 INFO crawl book url, thread *Crawl book url thread 2*  ==>RUN
+2019-07-17 15:24:59,650 thread:116 INFO 分类：B0-0， 统计：2904
+2019-07-17 15:24:59,788 thread:11376 INFO 分类：B0， 统计：11825
+2019-07-17 15:25:03,593 thread:11376 INFO |B0 2018| count: 288
+2019-07-17 15:25:06,416 thread:116 INFO |B0-0 2018| count: 48
+2019-07-17 15:25:10,078 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018103480&d=B763F4521940CF88F0475E05E7190272&fenlei=02020509
+2019-07-17 15:25:10,078 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017917470&d=ECFCFFE879707F70FD89D244BB609DD7&fenlei=02020206
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017886646&d=A94206ACAEAC7DE4ED7F74E9B9B48E1D&fenlei=02020306
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018109910&d=C2B580C01CC5CCD8E3EFF8C14D7F1A35&fenlei=02020509
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017957723&d=2EFFD061B0D12CCEE32B7BAA373E6B91&fenlei=02020306
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017876659&d=749A6BE0FDEB5056EBF8723E93ABCCA4&fenlei=02020509
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017928706&d=B245FE20004586B3783D9E6FCE857024&fenlei=020201
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017930833&d=0B3E8FE6BA485C6ED42CD607041C6900&fenlei=020201
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017978946&d=49E5B74346177A4592057BF7D5BB9AA4&fenlei=02020306
+2019-07-17 15:25:10,079 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017966673&d=F5F1079EC32E24B22771FB5376AA3871&fenlei=0202050902
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018102566&d=A3410D486E08CBEBF4D62BE28E2D8C33&fenlei=0202
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017832648&d=7B32FC949E858CF956BC09B97F5B5767&fenlei=02020506
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017815947&d=E6365494B1D6B13D69D26FED0AAE4DC3&fenlei=0202
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017882720&d=8C8AC9242B0F5EE6D0A90456AFF610D5&fenlei=02020509
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017963386&d=A318C8870A8FA2555EADF8691DAD9E8F&fenlei=020204
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017964853&d=ACBAC776D5171467A6F3F60A85F38162&fenlei=02020207
+2019-07-17 15:25:10,080 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017885872&d=B8BF971D476892201FD4AF00A4F2EC20&fenlei=02020306
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018035448&d=F8A003D6F3140153FE994CA2013A0A7D&fenlei=02020509
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017950491&d=E3754B7C3BE26CF818B5A7D82F7B452A&fenlei=020201
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017960541&d=ABE1684DE9B4C4B09E37C82B7A108DAD&fenlei=02020506
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018092299&d=8B33DD14E6917CBB4913AB0F16CA33A5&fenlei=02020306
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018056595&d=E23BDA7D6999201D2463EF6E197B7E7C&fenlei=0202050901
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018034840&d=833E86CBF5D37662D228D851E259E068&fenlei=02020306
+2019-07-17 15:25:10,081 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018101402&d=A15A65ADC9326766891EE09112964044&fenlei=0202
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018107884&d=F56A27AB8E297919DC478538380AA389&fenlei=0202
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017884775&d=8D8E97F451A33545BCD861A05BCC121C&fenlei=020201
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017958068&d=F92F8AF764F0CC6ED16119F28EC697FF&fenlei=02020505
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017961060&d=22C46413F4A7A17B8AE7BBADB28733B9&fenlei=02020206
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018107027&d=43236E1C579B62E50C23A8B9F4C77B0D&fenlei=0202
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017940312&d=1B89350BE1E07117B5E58166E124AACD&fenlei=02020302
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017949205&d=ACBB00B396E662176CC07BA03D584409&fenlei=020204
+2019-07-17 15:25:10,082 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017949808&d=7286483890088F55C057945736740E46&fenlei=02020209
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017951613&d=5202FEB82C2876535696F28E0C01B954&fenlei=02020509
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000030408554&d=04B80253B5F1E328F578CCD4BA8B50B6&fenlei=02020207
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018107603&d=1AE12EC7D00EFD729A16A83632C72F06&fenlei=02020506
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018107381&d=2235CCF4CB19AD6ED034883C5AF8EFB3&fenlei=020201
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018137040&d=4B2C13612512A47B485CA3DD9E10FDFF&fenlei=02020509
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018145719&d=83B9FE1F203B85D1A19A4E6A7F5774AF&fenlei=020201
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018144539&d=3D255874C5C9133B71632E6F4AD97962&fenlei=020201
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018035180&d=9FB91F17ED48ABE4A2E37F3E0736E4A7&fenlei=02020507
+2019-07-17 15:25:10,083 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018036874&d=2AEA159A6C7C430FD0B046CB6EFD4C48&fenlei=02020206
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018107683&d=3D8651531CE08C56F25BB134654AC970&fenlei=02020506
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018102657&d=8FE2BB945C10013121046174210E8082&fenlei=02020306
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018037230&d=E79EC86CF434CB6B84F4D36526EF1A5E&fenlei=02020506
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017815620&d=B3FEFAC52A3DE5E4CE2F440A57282135&fenlei=0202
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018037632&d=5765F6734678CED6566399B5C85E3735&fenlei=02020503
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017950521&d=501E024E58EAF1094F00DA81BDC74791&fenlei=020201
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017958869&d=EFE1229AD11E3B2C6F13986D89BFDC95&fenlei=020203
+2019-07-17 15:25:10,084 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017969189&d=EBD9B86B2EBE7B7F24713B0AA68B68E8&fenlei=04070206
+2019-07-17 15:25:10,085 thread:11376 INFO |B0 2018| http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000017966410&d=85565FDB703ADEC0CDEE6610AACA9561&fenlei=02020306

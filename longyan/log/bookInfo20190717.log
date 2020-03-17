@@ -1,0 +1,7 @@
+2019-07-17 14:57:57,900 thread:13060 INFO All url into queue!!!
+2019-07-17 14:57:57,901 thread:1200 INFO crawl book info, thread *Crawl book info thread 1*  ==>RUN
+2019-07-17 14:57:57,902 thread:12436 INFO crawl book info, thread *Crawl book info thread 2*  ==>RUN
+2019-07-17 14:57:57,903 thread:14104 INFO save data to db, thread *save one*   ==>RUN
+2019-07-17 14:58:03,000 thread:14104 INFO 空间与历史唯物主义 ==> SAVE
+2019-07-17 14:58:03,174 thread:14104 INFO 隐喻、意义和认知  分析哲学视野中的隐喻问题研究 ==> SAVE
+2019-07-17 14:58:05,925 thread:14104 INFO 西哲第四转向的后现代思潮  探索世界人文社科之前沿 ==> SAVE

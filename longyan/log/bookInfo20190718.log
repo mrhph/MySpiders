@@ -1,0 +1,8 @@
+2019-07-18 14:03:47,987 INFO 连接 Redis 线程池成功!!!
+2019-07-18 14:03:47,987 INFO 爬取图书信息线程开启, thread *Crawl book info thread 1*  ==>RUN
+2019-07-18 14:03:47,987 INFO 爬取图书信息线程开启, thread *Crawl book info thread 2*  ==>RUN
+2019-07-18 14:03:47,987 INFO 数据保存线程开启, thread：*save one*   ==>RUN
+2019-07-18 14:03:48,067 INFO 链接池URL读取完毕, thread：*Crawl book info thread 1* 关闭  ==>EXIT
+2019-07-18 14:03:48,077 INFO 链接池URL读取完毕, thread：*Crawl book info thread 2* 关闭  ==>EXIT
+2019-07-18 14:03:57,998 INFO 数据保存完毕, thread：*save one* 关闭  ==>RUN
+2019-07-18 14:03:57,998 INFO 程序退出！！！！！
